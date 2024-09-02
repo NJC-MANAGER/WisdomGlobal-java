@@ -41,6 +41,7 @@
     "Application.GrossPayCalculator.executor": "Run",
     "Application.GrossPayEmployeeValidator.executor": "Run",
     "Application.InstantCreditCheck.executor": "Run",
+    "Application.InstantCreditCheckReturn.executor": "Debug",
     "Application.LetterSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.QuotaChecker.executor": "Run",
@@ -54,7 +55,20 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InstantCreditCheckReturn">
+    <configuration name="InstantCreditCheckReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods_in_java.InstantCreditCheckReturn" />
+      <module name="WisdomGlobal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods_in_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structures.SalaryCalculator" />
       <module name="WisdomGlobal" />
@@ -70,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstantCreditCheckReturn" />
         <item itemvalue="Application.SalaryCalculator" />
       </list>
     </recent_temporary>
