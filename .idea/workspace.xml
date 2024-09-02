@@ -40,6 +40,7 @@
     "Application.Greetings.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
     "Application.GrossPayEmployeeValidator.executor": "Run",
+    "Application.InstantCreditCheck.executor": "Run",
     "Application.LetterSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.QuotaChecker.executor": "Run",
