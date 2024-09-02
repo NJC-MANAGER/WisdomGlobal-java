@@ -42,6 +42,7 @@
     "Application.LetterSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.QuotaChecker.executor": "Run",
+    "Application.RollTheDieGame.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
     "Application.UserGuidance.executor": "Run",
