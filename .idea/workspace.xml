@@ -37,6 +37,7 @@
     "Application.CustomerCreditScore.executor": "Run",
     "Application.GradeChecker.executor": "Run",
     "Application.GradeMessage.executor": "Run",
+    "Application.Greetings.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
     "Application.GrossPayEmployeeValidator.executor": "Run",
     "Application.LetterSearch.executor": "Run",
