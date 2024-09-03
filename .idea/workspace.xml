@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/objects_in_java/HomeAreaCalculatorWithObjectReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects_in_java/Records.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,13 @@
     "Application.GrossPayEmployeeValidator.executor": "Run",
     "Application.HomeAreaCalculator.executor": "Run",
     "Application.HomeAreaCalculatorWithMethods.executor": "Run",
+    "Application.HomeAreaCalculatorWithObjectReturnType.executor": "Run",
     "Application.InstantCreditCheck.executor": "Run",
     "Application.InstantCreditCheckReturn.executor": "Debug",
     "Application.LetterSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.QuotaChecker.executor": "Run",
+    "Application.Records.executor": "Run",
     "Application.RollTheDieGame.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
