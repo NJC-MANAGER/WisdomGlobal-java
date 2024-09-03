@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/objects_in_java/HomeAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects_in_java/HomeAreaCalculatorWithMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.Greetings.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
     "Application.GrossPayEmployeeValidator.executor": "Run",
+    "Application.HomeAreaCalculator.executor": "Run",
     "Application.InstantCreditCheck.executor": "Run",
     "Application.InstantCreditCheckReturn.executor": "Debug",
     "Application.LetterSearch.executor": "Run",
