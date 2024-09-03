@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="" />
+    <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
     "Application.TestResults.executor": "Run",
     "Application.UserGuidance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/Desktop/NJC MANAGER/WisdomGlobal/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"

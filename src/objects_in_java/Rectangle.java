@@ -5,6 +5,12 @@ public class Rectangle {
     private double length;
     private double width;
 
+    //A constructor
+    public Rectangle(){
+        length = 0;
+        width = 0;
+    }
+
     // some of the actions that can be taken on these fields-methods
   public double calculatePerimeter(){
         return (2 * length) + (2 * width);
@@ -17,7 +23,8 @@ public class Rectangle {
         return length;
     }
     public  void setLength(double length){
-        this.length = length;
+
+      this.length = length;
     }
     public double getWidth(){
         return width;
