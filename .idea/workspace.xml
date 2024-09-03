@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/objects_in_java/HomeAreaCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_in_java/Rectangle.java" afterDir="false" />
     </list>
@@ -59,7 +60,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InstantCreditCheckReturn">
+  <component name="RunManager">
     <configuration name="InstantCreditCheckReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods_in_java.InstantCreditCheckReturn" />
       <module name="WisdomGlobal" />
