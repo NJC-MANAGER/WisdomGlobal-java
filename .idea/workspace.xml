@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169aa7e2-ac49-44f8-8d1f-f93749683d73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/objects_in_java/Records.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text_processing/TextProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_in_java/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_in_java/Records.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddNumbers.executor": "Run",
+    "Application.ArraysInJava.executor": "Run",
     "Application.AverageTestScores.executor": "Run",
     "Application.Cashier.executor": "Run",
     "Application.CustomerCreditScore.executor": "Run",
@@ -55,6 +58,7 @@
     "Application.RollTheDieGame.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
+    "Application.TextProcessor.executor": "Run",
     "Application.UserGuidance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

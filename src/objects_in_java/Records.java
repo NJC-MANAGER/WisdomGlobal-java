@@ -15,7 +15,7 @@ public class Records {
         }
     }
 //Records can be instantiated just like classes
-    Account account = new Account(13344, 12212, "Checking", 4033.93);
+  //Example:  Account account = new Account(13344, 12212, "Checking", 4033.93);
     public static void main(String[] args) {
         // Create an instance of the Account record
         Account account = new Account(1, 1001, "Savings", 1500.50);
